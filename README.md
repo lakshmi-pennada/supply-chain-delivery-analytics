@@ -21,7 +21,7 @@ An end-to-end data analytics project analyzing **180,519 supply chain records** 
 ---
 
 ## Dashboard Overview
-![Supply Chain Dashboard](screenshots/dashboard_overview.png)
+![Supply Chain Dashboard](Dashboard_Overview.png)
 
 ### Key Visuals
 1. **Delivery Performance Overview:** Delayed orders account for the largest share (~103K+ orders), followed by Early (~43K) and On Time (~33K).
